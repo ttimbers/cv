@@ -1,44 +1,44 @@
 ### Tiffany A. Timbers, Ph.D.
 University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vancouver, BC Canada V6T 1Z4 
 
-- tel. 604-803-4962 </br>
-- email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca) </br>
-- website: [tiffanytimbers.com](http://tiffanytimbers.com/) </br>
+- tel. 604-803-4962 
+- email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca) 
+- website: [tiffanytimbers.com](http://tiffanytimbers.com/)
 - Github: [github.com/ttimbers](https://github.com/ttimbers)
 
 ## *Curriculum vitae*
 
 ### POSITIONS HELD:
 
-* **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current </br>
-University of British Columbia, Master of Data Science program, Vancouver, BC </br>
-*Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
+* **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current 
+  - University of British Columbia, Master of Data Science program, Vancouver, BC </br>
+  - *Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
 
-* **Instructor**, 2018 – Current </br>
-University of British Columbia, Dept. of Statistics, Vancouver, BC </br>
-*Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program* </br>
-Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
+* **Instructor**, 2018 – Current
+  - University of British Columbia, Dept. of Statistics, Vancouver, BC 
+  - *Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program* 
+  - Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
 
-* **Teaching and Learning Fellow**, 2016 – 2018</br>
-University of British Columbia, Dept. of Statistics, Vancouver, BC</br>
-*Teaching, coordination and curriculum development for the professional ￼￼￼Master of Data Science (MDS) program*</br>
-Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
+* **Teaching and Learning Fellow**, 2016 – 2018
+  - University of British Columbia, Dept. of Statistics, Vancouver, BC
+  - *Teaching, coordination and curriculum development for the professional ￼￼￼Master of Data Science (MDS) program*
+  - Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
 
-* **Banting Postdoctoral Fellow**, 2012 – 2016</br>
-Simon Fraser University, Dept. of Molecular Biology & Biochemistry, Burnaby, BC</br>
-*￼￼￼Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*</br>
+* **Banting Postdoctoral Fellow**, 2012 – 2016
+  - Simon Fraser University, Dept. of Molecular Biology & Biochemistry, Burnaby, BC
+  - *￼￼￼Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*
 Supervisor: Michel R. Leroux.
 
 ### EDUCATION:
-* **Ph.D. in Neuroscience**, 2005 – 2012  </br>
-University of British Columbia, Brain Research Centre, Vancouver, BC</br>
-*The roles of CREB, CaMK1 and ageing in short- and long-term tap habituation in C. elegans*</br>
-Ph.D. Supervisor: Catharine H. Rankin.
+* **Ph.D. in Neuroscience**, 2005 – 2012  
+  - University of British Columbia, Brain Research Centre, Vancouver, BC
+  - *The roles of CREB, CaMK1 and ageing in short- and long-term tap habituation in C. elegans*
+  - Ph.D. Supervisor: Catharine H. Rankin.
 
-* **B.Sc. in Biology, with Honours**, 2001-2005</br>
-Carleton University, Dept. of Biology, Ottawa, ON </br>
-*Vibration-mediated spacing in gregarious caterpillars* </br>
-Honors Thesis Supervisor: Jayne E. Yack.
+* **B.Sc. in Biology, with Honours**, 2001-2005
+  - Carleton University, Dept. of Biology, Ottawa, ON 
+  - *Vibration-mediated spacing in gregarious caterpillars* 
+  - Honors Thesis Supervisor: Jayne E. Yack.
 
 ### ADDITIONAL COURSES:
 * Instructor Training, Software Carpentry, 2014
@@ -51,7 +51,7 @@ Honors Thesis Supervisor: Jayne E. Yack.
 
 ### TEACHING EXPERIENCE:
 
-1. **Instructor**, University of British Columbia, Vancouver, BC </br> Sept 2016 - Current </br>
+1. **Instructor**, University of British Columbia, Vancouver, BC </br> Sept 2016 - Current 
 
     DSCI 100 - Introduction to Data Science. Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized.
 
@@ -67,7 +67,7 @@ Honors Thesis Supervisor: Jayne E. Yack.
     
     DSCI 591 - Data Science Capstone Project. A mentored group project based on real data and questions from a partner within or outside the university. Students will formulate questions and design and execute a suitable analysis plan. The group will work collaboratively to produce a reproducible analysis pipeline, project report, presentation and possibly other products, such as a dashboard.
 
-2. **Teaching Fellow**, University of British Columbia, Vancouver, BC </br> Sept. 2016 - present </br>
+2. **Teaching Fellow**, University of British Columbia, Vancouver, BC, Sept. 2016 - present 
 
     - Supported the instruction of the following MDS courses via course coordination, lab curriculum development and lab content delivery and teaching assistant supervision.
       - DSCI 523 - Data Wrangling
@@ -80,31 +80,29 @@ Honors Thesis Supervisor: Jayne E. Yack.
     - Liasoned with industry, not-for-profits and academic entities to generate 5 viable MDS Capstone projects
     - Developed teaching curriculum/materials for the Applied Statistics and Data Science Group (ASDa) statistical models course taught to UBC grad students & postdocs in Feb 2017
 
-1. **Instructor**, Quest University, Squamish, BC </br>
-	Oct. – Nov., 2015 </br>
+1. **Instructor**, Quest University, Squamish, BC, Oct. – Nov., 2015
 
 	PHY2009 – Computation in the Physical Sciences (for BA&Sc - 13 students) Critical practices to carry out a computational project from beginning to end, including code modularization, readability and re-use, as well as version control to organize their coding projects and collaborate effectively. Ultimately, students will use these tools to analyze their own datasets in a term project. For preparation, students will work through a sample dataset from a radioactive isotope decay experiment together as a class. Skills will be taught via a combination of live- coding sessions and work-along sessions. Think of it as a guided three hour hackathon each day of the block.
 
-2. **Instructor**, Michigan State University, Kellogg Biological Station </br>
-Augusta, MI, Aug., 2015 </br>
+2. **Instructor**, Michigan State University, Kellogg Biological Station, Augusta, MI, Aug., 2015
 
 	Advanced Analysis of Next-Generation Sequencing Data – Intensive one week summer course will introduce attendees with a strong biology background and an intermediate computational background to doing reproducible research using Docker, AWS Cloud Computing, version control with Git/Github and RMarkdown, as well as how to perform genome assembly, differential expression analysis, genome-wide association analysis, and RNAseq pathway analysis.
 
-3. **Mentorship Sub-committee member**, Software Carpentry </br> http://software-carpentry.org </br> Mar. 2015 – Present
+3. **Mentorship Sub-committee member**, [Software Carpentry](http://software-carpentry.org), Mar. 2015 – Present
 
 	The Software Carpentry Foundation is a non-profit organization whose instructors teach scientists and researchers basic software skills.</br>
 	* Held post-workshop debriefing for instructors </br>
 	* Developed micro-lesson training step in the Software Carpentry Instructor Certification Program </br>
 	* Organized 1st ever [Software + Data Carpentry Instructor & Helper Retreat](http://swcarpentry.github.io/instructor-retreat-2015/)
 
-4. **Instructor**, Software Carpentry </br> http://software-carpentry.org </br> Jan. 2015 – Present 
+4. **Instructor**, [Software Carpentry](http://software-carpentry.org), Jan. 2015 – Present
 	* Taught 8 interactive 2-day workshops on automating tasks using the Unix shell, structured programming in Python or R, version control using Git and relational databases (SQL).
 	* Created new challenge questions to probe student learning during the workshop
 	* Implemented a new pedagogical approach to teaching version control and collaboration
 
-5. **Instructor**, University of British Columbia, Vancouver, BC </br> Jan. – Apr. 2011 </br>
+5. **Instructor**, University of British Columbia, Vancouver, BC, Jan. – Apr. 2011
 
-	PSYC 306 – Principles of Animal Behavior (for B.Sc. Psychology Majors - approx. 100 students). Theory of evolution; behavioral genetics; social systems as ecological adaptation; mating and parental strategies; instinct and learning; evolution of human behavior. 
+	PSYC 306 – Principles of Animal Behavior (for B.Sc. Psychology Majors - approx. 100 students). Theory of evolution; behavioral genetics; social systems as ecological adaptation; mating and parental strategies; instinct and learning; evolution of human behavior.
 
 6. **Teaching Assistant**, various institions and courses.
 
@@ -117,7 +115,7 @@ Augusta, MI, Aug., 2015 </br>
     - Carleton University, Ottawa, ON (2005)
       - BIOL 3802 – Animal Behavior
 
-7. **Student Supervision**, 16 undergraduate student research projects 
+7. **Student Supervision**, 16 undergraduate student research projects
 	* Planned/designed projects, trained/supervised students, graded projects.
 
 ### HONOURS & AWARDS:
