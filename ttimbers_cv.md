@@ -11,7 +11,7 @@ Github: [github.com/ttimbers](https://github.com/ttimbers)
 ### POSITIONS HELD: 
 
 * **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current</br>
-University of British Columbia, Master of Data Science program, Vancouver, BC</br>
+University of British Columbia, Master of Data Science program, Vancouver, BC </br>
 *Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
 
 * **Instructor**, 2018 – Current</br>
