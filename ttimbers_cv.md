@@ -1,14 +1,14 @@
 ### Tiffany A. Timbers, Ph.D.
 University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vancouver, BC Canada V6T 1Z4 </br>
 
-tel. 604-803-4962 </br>
-email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca)</br>
-website: [tiffanytimbers.com](http://tiffanytimbers.com/)</br>
-Github: [github.com/ttimbers](https://github.com/ttimbers)
-   
+- tel. 604-803-4962 </br>
+- email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca) </br>
+- website: [tiffanytimbers.com](http://tiffanytimbers.com/) </br>
+- Github: [github.com/ttimbers](https://github.com/ttimbers)
+
 ## *Curriculum vitae*
 
-### POSITIONS HELD: 
+### POSITIONS HELD:
 
 * **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current</br>
 University of British Columbia, Master of Data Science program, Vancouver, BC </br>
