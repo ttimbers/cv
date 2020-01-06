@@ -1,5 +1,5 @@
 ### Tiffany A. Timbers, Ph.D.
-University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vancouver, BC Canada V6T 1Z4 </br>
+University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vancouver, BC Canada V6T 1Z4 
 
 - tel. 604-803-4962 </br>
 - email. [tiffany.timbers@stat.ubc.ca](mailto:tiffany.timbers@stat.ubc.ca) </br>
@@ -10,13 +10,13 @@ University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vanc
 
 ### POSITIONS HELD:
 
-* **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current</br>
+* **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current </br>
 University of British Columbia, Master of Data Science program, Vancouver, BC </br>
 *Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
 
-* **Instructor**, 2018 – Current</br>
-University of British Columbia, Dept. of Statistics, Vancouver, BC</br>
-*Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program*</br>
+* **Instructor**, 2018 – Current </br>
+University of British Columbia, Dept. of Statistics, Vancouver, BC </br>
+*Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program* </br>
 Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
 
 * **Teaching and Learning Fellow**, 2016 – 2018</br>
