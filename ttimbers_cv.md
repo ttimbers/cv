@@ -11,22 +11,22 @@ University of British Columbia, Dept. of Statistics, 2178 - 2207 Main Mall, Vanc
 ### POSITIONS HELD:
 
 * **Option Co-Director Master of Data Science program - Vancouver Option**, 2018 – Current 
-  - University of British Columbia, Master of Data Science program, Vancouver, BC </br>
-  - *Coordination and curriculum oversight for the professional ￼￼￼Master of Data Science (MDS) program*</br>
+  - University of British Columbia, Master of Data Science program, Vancouver, BC 
+  - *Coordination and curriculum oversight for the professional Master of Data Science (MDS) program*
 
 * **Instructor**, 2018 – Current
   - University of British Columbia, Dept. of Statistics, Vancouver, BC 
-  - *Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional ￼￼￼Master of Data Science (MDS) program* 
+  - *Educational leadership stream faculty teaching Data Science in the Dept. of Statistics and the professional Master of Data Science (MDS) program* 
   - Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
 
 * **Teaching and Learning Fellow**, 2016 – 2018
   - University of British Columbia, Dept. of Statistics, Vancouver, BC
-  - *Teaching, coordination and curriculum development for the professional ￼￼￼Master of Data Science (MDS) program*
+  - *Teaching, coordination and curriculum development for the professional Master of Data Science (MDS) program*
   - Supervisors: Paul Gustafson, Giuseppe Carenini, Jenny Bryan, and Raymond Ng.
 
 * **Banting Postdoctoral Fellow**, 2012 – 2016
   - Simon Fraser University, Dept. of Molecular Biology & Biochemistry, Burnaby, BC
-  - *￼￼￼Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*
+  - *Integrating genomic and phenomic data to identify novel genes critical for cilia and sensory neuron function*
 Supervisor: Michel R. Leroux.
 
 ### EDUCATION:
@@ -194,7 +194,7 @@ Schroeder, F. C. (2004). Defensive flocculent emissions in a Tiger moth, *Homoeo
 
 ### PUBLISHED BOOK CHAPTERS:
 
-1. **Timbers, T.A.**, Frame, A.K., Rankin, C.H. (2017). Learning and Memory in Invertebrates: C. elegans. In Reference Module in *Neuroscience and Biobehavioral Psychology*, Elsevier, 2017. ISBN 9780128093245
+1. **Timbers, T.A.**, Frame, A.K., Rankin, C.H. (2017). Learning and Memory in Invertebrates: *C. elegans*. In Reference Module in *Neuroscience and Biobehavioral Psychology*, Elsevier, 2017. ISBN 9780128093245
 
 1. **Timbers, T.A.** and Rankin, C.H. (2008). Learning and memory in
 invertebrates: *C. elegans*. In: Squire, L., Albright, T., Bloom, F.,
@@ -210,7 +210,7 @@ Neuroscience.* pp. 227-242. Oxford: Elsevier.
 
 1. **Timbers, T.A.** (2019). [When Should You Add Github, Make and Docker to Your Data Science Workflow?](https://workflows-for-all.github.io/sdss-2019/workflows_democratize_complex_projects/workflows_democratize_complex_projects.html#1). *Symposium on Data Science & Statistics* (Bellevue, WA)
 
-1. **Timbers, T.A.** (2019). [DSCI 100 - Introduction to Data Science: A Discussion of Course Design Intent and Lessons Learned](https://ttimbers.github.io/dsci-100-ssc-2019/dsci-100-ssc-2019.html#1). *Statistics Society of Candada Annual Meeting* (University of Calgary, AB)
+1. **Timbers, T.A.** (2019). [DSCI 100 - Introduction to Data Science: A Discussion of Course Design Intent and Lessons Learned](https://ttimbers.github.io/dsci-100-ssc-2019/dsci-100-ssc-2019.html#1). *Statistics Society of Canada Annual Meeting* (University of Calgary, AB)
 
 1. **Timbers, T.A.**, Silva., R, and Smith, G. (2017). [Career Pathways Panel](https://software-carpentry.org/blog/2017/01/first-panel.html). *Software and Data Carpentry* (Online conference call, registration required)
 
