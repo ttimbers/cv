@@ -155,14 +155,14 @@ Supervisor: Michel R. Leroux.
 
 ### PEER-REVIEWED PUBLICATIONS:
 
-2. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (2019). EFHC1, implicated in juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling. ***eLife*** 8:e37271. doi: [10.7554/eLife.37271.001](https://doi.org/10.7554/eLife.37271.001)
+1. Loucks, C.M., Walker, D.S., McEwan, A.H., **Timbers, T.A.,** Ardiel, E.L., Grundy, L.J., Johnson, J., Kennedy, J., Blacque, O.E., Schafer, W.R., Rankin, C.H., and Leroux, M.R. (2019). EFHC1, implicated in juvenile myoclonic epilepsy, functions at the cilium and synapse to modulate dopamine signaling. ***eLife*** 8:e37271. doi: [10.7554/eLife.37271.001](https://doi.org/10.7554/eLife.37271.001)
 
 1. Ardiel, E.L., McDiarmid, T.A., **Timbers, T.A.,** , Lee, K.C.Y., Safaei, J., Pelech,
 S.L., and Rankin, C.H. (2018). Insights into the roles of CMK-1 and OGT-1 in interstimulus interval-dependent habituation in *Caenorhabditis elegans*. ***Proceedings of the Royal Society B*** 285(1891):20182084. doi: [10.1098/rspb.2018.2084](https://royalsocietypublishing.org/doi/10.1098/rspb.2018.2084)
 
 1. Yadav, C., Guedes, R.N.C., Matheson, S.M., **Timbers, T.A.**, and Yack, J.E. (2017). Invitation by vibration: recruitment to feeding shelters in social caterpillars. ***Behavioral Ecology and Sociobiology*** 71(3):51. doi: [10.1007/s00265-017-2280-x](http://dx.doi.org/10.1007/s00265-017-2280-x)
 
-2. Babaian, A., Drögemöller, B., Grande, B.M., Jackman, S.D., Lee, A.H., Lin, S., Loucks, C., Suarez-Gonzalez, A., **Timbers, T.A.** and Wright, G. (2017). hackseq: Catalyzing collaboration between biological and computational scientists via hackathon [version 1; referees: awaiting peer review](https://f1000research.com/articles/6-197/v1). ***F1000Research***, *Hackathons channel*. doi: [10.12688/f1000research.10964.1](http://dx.doi.org/10.12688/f1000research.10964.1)
+1. Babaian, A., Drögemöller, B., Grande, B.M., Jackman, S.D., Lee, A.H., Lin, S., Loucks, C., Suarez-Gonzalez, A., **Timbers, T.A.** and Wright, G. (2017). hackseq: Catalyzing collaboration between biological and computational scientists via hackathon [version 1; referees: awaiting peer review](https://f1000research.com/articles/6-197/v1). ***F1000Research***, *Hackathons channel*. doi: [10.12688/f1000research.10964.1](http://dx.doi.org/10.12688/f1000research.10964.1)
 
 1. Jensen, V.L., Carter, S., Sanders, A.A.W.M., Li, C., Kennedy, J., **Timbers, T.A.**, Cai, J., Scheidel, N., Kennedy, B.N., Morin, R.D., Leroux, M.R. and Blacque, O.E. (2016).
 Whole-Organism Developmental Expression Profiling Identifies RAB-28 as a Novel Ciliary GTPase Associated with the BBSome and Intraflagellar Transport. ***PLoS Genetics*** doi: [10.1371/journal.pgen.1006469](http://dx.doi.org/10.1371/journal.pgen.1006469)
@@ -174,21 +174,21 @@ Accelerating Gene Discovery by Phenotyping Whole-Genome Sequenced Multi-mutation
 1. Mohan, S., **Timbers, T.A.,** Kennedy, J., Blacque, O., and Leroux, M.R. (2013). Striated and non-filamentous forms of rootletin maintain
 ciliary function. ***Current Biology*** 23(20):2016-22. doi: [10.1016/j.cub.2013.08.033](http://dx.doi.org/10.1016/j.cub.2013.08.033)
 
-2. Li, C.\*, **Timbers, T.A.\*,** Rose, J.K., Bozorgmehr, T, McEwan, A. and Rankin, C.H. (2013). The
+1. Li, C.\*, **Timbers, T.A.\*,** Rose, J.K., Bozorgmehr, T, McEwan, A. and Rankin, C.H. (2013). The
  FMRFamide-related neuropeptide FLP-20 is required in the mechanosensory
 neurons during memory for massed training in *C. elegans*. ***Learning & Memory*** 20(2):103-108. \***Authors contributed equally.** doi: [10.1101/lm.028993.112](https://dx.doi.org/10.1101%2Flm.028993.112)
 
-3. Lau, H.L., **Timbers, T.A**., Mahoumad, R., and Rankin, C.H. (2013).
+1. Lau, H.L., **Timbers, T.A**., Mahoumad, R., and Rankin, C.H. (2013).
 Genetic dissection of memory for associative and non-associative
 learning in *C. elegans*. ***Genes, Brain and Behavior*** 12(2):210-23. doi: [10.1111/j.1601-183X.2012.00863.x](http://onlinelibrary.wiley.com/doi/10.1111/j.1601-183X.2012.00863.x/abstract)
 
-4. **Timbers, T.A.\*,** Giles, A.C.\*, Ardiel, E. L., Kerr, R. and Rankin, C. H. (2013). Intensity discrimination deficits cause habituation changes in middle-aged *Caenorhabditis elegans*. ***Neurobiology of Aging*** 34(2): 621-631. \***Authors contributed equally.** doi: [10.1016/j.neurobiolaging.2012.03.016](http://dx.doi.org/10.1016/j.neurobiolaging.2012.03.016)
+1. **Timbers, T.A.\*,** Giles, A.C.\*, Ardiel, E. L., Kerr, R. and Rankin, C. H. (2013). Intensity discrimination deficits cause habituation changes in middle-aged *Caenorhabditis elegans*. ***Neurobiology of Aging*** 34(2): 621-631. \***Authors contributed equally.** doi: [10.1016/j.neurobiolaging.2012.03.016](http://dx.doi.org/10.1016/j.neurobiolaging.2012.03.016)
 
-5. **Timbers, T.A.** and Rankin, C.H. (2011). Tap withdrawal circuit
+1. **Timbers, T.A.** and Rankin, C.H. (2011). Tap withdrawal circuit
 interneurons require CREB for long-term habituation in *Caenorhabditis
 elegans*. ***Behavioral Neuroscience*** 125(4): 560-566. doi: [10.1037/a0024370])(http://psycnet.apa.org/doi/10.1037/a0024370)
 
-6. Yack, J. E., **Timbers, T. A**.,Conner, W. E., Aiello, A. and
+1. Yack, J. E., **Timbers, T. A**.,Conner, W. E., Aiello, A. and
 Schroeder, F. C. (2004). Defensive flocculent emissions in a Tiger moth, *Homoeocera stictosoma*
 (Arctiidae:Arctiinae). ***Journal of the Lepidopterists’ Society*** 58(3): 173-177.
 
